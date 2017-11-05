@@ -1,0 +1,9 @@
+{
+  "id": "fe0930e4-c25a-11e7-b871-080027dcba00",
+  "name": "MATLAB",
+  "type": "dependency-application",
+
+  "build": {
+    "command": "sh build.sh"
+  }
+}
